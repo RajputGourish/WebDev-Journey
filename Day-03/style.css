@@ -1,0 +1,9 @@
+/* 
+    for table border
+*/
+body{
+    background-color: rgb(254, 189, 119);
+}
+td{
+    border: 2px solid black;
+}
