@@ -22,6 +22,11 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 style.css  
  ┣ 📂 Day-05  
  ┃ ┣ 📜 index.html 
+ ┣ 📂 Day-06  
+ ┃ ┣ 📜 ComprehensionList.txt
+ ┃ ┣ 📜 Form.html
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 style.css
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
