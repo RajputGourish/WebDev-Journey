@@ -27,6 +27,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 Form.html
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 style.css
+ ┣ 📂 Day-07  
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 style.css
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -40,6 +43,8 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 3  
 ✅ Day 4  
 ✅ Day 5  
+✅ Day 6  
+✅ Day 7  
 🔄 More coming soon...  
 
 ---
