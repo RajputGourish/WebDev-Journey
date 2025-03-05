@@ -30,6 +30,12 @@ This repository documents my daily progress in learning and building projects re
  ┣ 📂 Day-07  
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 style.css
+ ┣ 📂 Day-08  
+ ┃ ┣ 📜 Img.jpeg
+ ┃ ┣ 📜 img.svg
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Love.mp4
+ ┃ ┣ 📜 Sachin.mp3
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
