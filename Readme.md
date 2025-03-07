@@ -38,6 +38,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 Sachin.mp3
  ┣ 📂 Day-09  
  ┃ ┣ 📜 index.html
+ ┣ 📂 Day-10  
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
