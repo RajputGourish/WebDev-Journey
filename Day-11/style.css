@@ -1,0 +1,19 @@
+
+
+body{
+    background-image:url(img2.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 100%;
+}
+
+h2, header{
+    color:yellow;
+    background-color: red;
+}
+span{
+    background-color: rgb(147, 147, 238);
+}
+pre{
+    background-color: #7af5f5;
+}
