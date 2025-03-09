@@ -46,6 +46,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Intro.html
  ┃ ┣ 📜 style.css
+ ┣ 📂 Day-12  
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
