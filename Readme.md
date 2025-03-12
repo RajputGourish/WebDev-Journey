@@ -53,6 +53,8 @@ This repository documents my daily progress in learning and building projects re
  ┣ 📂 Day-14  
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 color.html
+ ┣ 📂 Day-15  
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -75,6 +77,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 12  
 ✅ Day 13  
 ✅ Day 14  
+✅ Day 15  
 🔄 More coming soon...  
 
 ---
