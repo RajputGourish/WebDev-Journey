@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Sizes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            font-size: 12px;
+        }
+
+        .box {
+            box-sizing: border-box;
+            border: 2px solid black;
+            /* width: 1260px; */
+            width: 80vw;
+            height: 10vh;
+            margin: auto;
+            /* both side left and right*/
+            background-color: aquamarine;
+        }
+
+        .container {
+            box-sizing: border-box;
+            border: 2px solid black;
+            width: 80vw;
+            /* height: 80vh; */
+            min-height: 80vh;
+            /* min-width: 50vh; */
+
+            margin: 23px auto;
+            /* font-size: 18px; */
+            background-color: aquamarine;
+        }
+
+        .container p {
+            /* font-size: 2em; */
+            font-size: 2rem;
+            width: 50%;
+        }
+
+        .mycont {
+            box-sizing: border-box;
+            border: 2px solid black;
+            margin: 23px auto;
+            color: black;
+            font-size: 22px;
+            /* width: 100vmin; */
+            width: 80vw;
+            /* height: 100vmax; */
+        }
+
+        .percentdiv {
+            border: 2px solid black;
+            width: 80vw;
+            height: 50vh;
+            margin: auto;
+        }
+
+        .percentdiv>div {
+            border: 2px solid blue;
+            width: 50%;
+        }
+
+        .percentdiv>div>p {
+            border: 2px solid red;
+            width: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units -->
+
+    <div class="box">
+        This is a div.
+    </div>
+    <div class="container">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint facere pariatur incidunt
+            quisquam fugiat quibusdam sit unde, optio iure, dolore itaque explicabo porro dolorum! Optio, officiis
+            distinctio nesciunt sunt consequatur temporibus? Fugiat, ab quia?
+        </p>
+        expand rhis Lorem999
+    </div>
+    <div class="percentdiv">
+        <div>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus eligendi esse ipsam dolorem praesentium ad
+            necessitatibus pariatur aut sequi! Deserunt iure incidunt sit, pariatur dolorem tempore, vel dignissimos
+            deleniti quaerat totam praesentium commodi vitae!
+            <p>
+                This is a para graph content
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nisi eaque veritatis, accusantium,
+                molestias
+                obcaecati magni fuga ipsa, eum quae reiciendis praesentium!
+            </p>
+        </div>
+    </div>
+    <div class="mycont">
+        i am in another container.
+    </div>
+</body>
+
+</html>
