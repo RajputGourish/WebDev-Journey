@@ -71,6 +71,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.html
  ┣ 📂 Day-23
  ┃ ┣ 📜 index.html
+ ┣ 📂 Day-24
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -102,6 +104,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 21  
 ✅ Day 22  
 ✅ Day 23  
+✅ Day 24  
 🔄 More coming soon...  
 
 ---
