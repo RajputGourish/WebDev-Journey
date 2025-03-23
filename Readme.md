@@ -75,6 +75,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.html
  ┣ 📂 Day-25
  ┃ ┣ 📜 index.html
+ ┣ 📂 Day-26
+ ┃ ┣ 📜 Card.html
+ ┃ ┣ 📜 image use.png
+ ┃ ┣ 📜 image.png
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -108,6 +112,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 23  
 ✅ Day 24  
 ✅ Day 25  
+✅ Day 26  
 🔄 More coming soon...  
 
 ---
