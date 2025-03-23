@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Card Desgn</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            padding: 46px;
+        }
+        
+        .parent {
+            width: 452px;
+            height: 635px;
+            height: auto;
+            border-radius: 15px;
+            background-color: silver;
+            margin: 8px;
+            padding: 8px;
+        }
+
+        .parent div:first-child {
+            display: flex;
+            justify-content: center;
+        }
+
+        .image {
+            height: 40%;
+            margin: 10px;
+            border-radius: 15px;
+            width: 444px;
+        }
+
+        div p:first-child {
+            text-indent: 9%;
+        }
+
+        p {
+            font-size: 18px;
+            font-weight: bold;
+            opacity: 0.5;
+        }
+
+        .text * {
+            margin: 10px;
+            padding: 10px;
+        }
+
+        #button {
+            width: 38%;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 50px;
+            font-weight: bold;
+            color: rgb(47, 47, 255);
+            background-color: rgb(183, 183, 211);
+            cursor: pointer;
+        }
+
+        #button:hover {
+            background-color: rgb(79, 229, 255);
+        }
+
+        .but {
+            margin: 26px;
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- card.png is a file which contains a card Image. Write html and css code to design this card. Use #html -->
+
+    <div class="parent">
+        <div>
+            <img class="image" src="image use.png" alt="nature" width="452px">
+        </div>
+        <div class="text">
+            <p>Nature &emsp;&emsp;Lake</p>
+            <h2>Lorem, ipsum dolor.</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias ipsum recusandae similique debitis
+                deleniti voluptate tenetur esse commodi doloribus! Facilis corrupti voluptatum doloribus dolor velit
+                quibusdam enim aperiam sed labore!</p>
+        </div>
+        <div class="but">
+            <button id="button" type="button">Read More</button>
+        </div>
+    </div>
+</body>
+
+</html>
