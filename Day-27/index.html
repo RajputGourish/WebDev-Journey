@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MultiColor Navbar</title>
+    <style>
+        :root {
+            --color: rgb(13, 170, 255);
+            --secolor: rgb(116, 116, 235);
+            --listpadding: 14px;
+            --liststyle: none;
+            --displayflex: flex;
+            --justifycontent: center;
+            --listmargin: 10px;
+            --listpadding: 5px;
+            --cursor: pointer;
+            --underline: 3px underline;
+            --underlinecolor: yellow;
+            --underlineHovercolor: red;
+        }
+
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            list-style: var(--liststyle);
+            padding: var(--listpadding);
+            margin: var(--listmargin);
+            padding: var(--listpadding);
+            cursor: var(--cursor);
+            text-decoration: var(--underline);
+            text-decoration-color: var(--underlinecolor);
+            color: yellow;
+        }
+
+        a {
+            color: yellow;
+        }
+
+        nav {
+            background-color: var(--secolor);
+        }
+
+        ul {
+            display: var(--displayflex);
+            justify-content: var(--justifycontent);
+        }
+
+        ul li:hover {
+            text-decoration-color: var(--underlineHovercolor);
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+            <li>
+                <a href="https://x.com/gourish_rajput" target="_blank">X</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/gourish-rajput-0b10ab226/" target="_blank">Linked in</a>
+            </li>
+            <li>
+                <a href="https://github.com/RajputGourish" target="_blank">Github</a>
+            </li>
+
+        </ul>
+    </nav>
+</body>
+
+</html>
