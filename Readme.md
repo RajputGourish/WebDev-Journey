@@ -81,6 +81,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 image.png
  ┃ 📂 Day-27
  ┃ ┣ 📜 index.html
+ ┃ 📂 Day-28
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 flexbox.drawio.pdf
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -116,6 +119,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 25  
 ✅ Day 26  
 ✅ Day 27  
+✅ Day 28  
 🔄 More coming soon...  
 
 ---
