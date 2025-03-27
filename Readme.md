@@ -84,6 +84,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-28
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 flexbox.drawio.pdf
+ ┃ 📂 Day-29
+ ┃ ┣ 📜 Grid-1.html
+ ┃ ┣ 📜 Grid-2.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -120,6 +123,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 26  
 ✅ Day 27  
 ✅ Day 28  
+✅ Day 29  
 🔄 More coming soon...  
 
 ---
