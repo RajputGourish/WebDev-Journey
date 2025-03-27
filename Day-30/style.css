@@ -1,0 +1,24 @@
+body,
+button {
+    background-color: rgb(62, 165, 62);
+}
+
+header {
+    background-color: rgb(62, 165, 62);
+    text-align: center;
+    /* position: sticky;
+    top: 0px; */
+}
+
+form {
+    background-color: aliceblue;
+    margin: 20px;
+
+}
+span{
+    padding: 10px;
+}
+div{
+    padding: 10px;
+    display: grid;
+}

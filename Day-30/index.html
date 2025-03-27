@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GFG Survey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h2>GeeksforGeeks Survey Form</h2>
+    </header>
+    <main>
+        <form action="post">
+            <div>
+                <label for="name">Name</label><br>
+                <input type="text" id="name" placeholder="Enter your name" required>
+            </div>
+            <div>
+                <label for="email">Email</label><br>
+                <input type="email" id="email" placeholder="Enter your email" required>
+            </div>
+            <div>
+                <label for="age">Age</label><br>
+                <input type="number" id="age" placeholder="Enter your age" required>
+            </div>
+            <div>
+                <label for="select">Which option best describe you?</label><br>
+                <select id="select" name="select" required>
+                    <option value="student">student</option>
+                    <option value="intern">intern</option>
+                    <option value="Job">Job</option>
+                </select>
+            </div>
+            <div>
+                <label>Would you recommend GeeksforGeeks to a friend?</label>
+            </div>
+            <input type="radio" id="Yes" name="recommend" value="yes">
+            <label for="Yes">Yes</label>
+            <input type="radio" id="No" name="recommend" value="yes">
+            <label for="No">No</label>
+            <input type="radio" id="Maybe" name="recommend" value="yes">
+            <label for="Maybe">Maybe</label>
+            <div>
+                <lable>Languages and Frameworks (check all that apply)</lable><br>
+
+                <label for="C">
+                    <input type="checkbox" id="C" name="C" value="Yes">
+                    C
+                </label><br>
+                <label for="C++">
+                    <input type="checkbox" id="C++" name="C++" value="Yes">
+                    C++
+                </label><br>
+                <label for="C#">
+                    <input type="checkbox" id="C#" name="C#" value="Yes">
+                    C#
+                </label><br>
+                <label for="Java">
+                    <input type="checkbox" id="Java" name="Java" value="Yes">
+                    Java
+                </label><br>
+                <label for="python">
+                    <input type="checkbox" id="python" name="python" value="Yes">
+                    python
+                </label><br>
+                <label for="javascript">
+                    <input type="checkbox" id="javascript" name="javascript" value="Yes">
+                    javascript
+                </label><br>
+                <label for="React">
+                    <input type="checkbox" id="React" name="React" value="Yes">
+                    React
+                </label><br>
+                <label for="Angular">
+                    <input type="checkbox" id="Angular" name="Angular" value="Yes">
+                    Angular
+                </label><br>
+                <label for="Django">
+                    <input type="checkbox" id="Django" name="Django" value="Yes">
+                    Django
+                </label><br>
+                <label for="spring">
+                    <input type="checkbox" id="spring" name="spring" value="Yes">
+                    spring
+                </label><br>
+            </div>
+
+            <div>
+                <label for="comments">Any comments or suggestions</label><br>
+                <textarea id="comments" name="comments" rows="5" cols="39" placeholder="Type here"></textarea>
+            </div>
+            <div>
+                <button type="submit">Submit</button><br>
+                <button type="reset">Reset</button><br>
+            </div>
+        </form>
+    </main>
+</body>
+
+</html>
