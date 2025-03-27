@@ -87,6 +87,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-29
  ┃ ┣ 📜 Grid-1.html
  ┃ ┣ 📜 Grid-2.html
+ ┃ 📂 Day-30
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 style.css
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -124,6 +127,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 27  
 ✅ Day 28  
 ✅ Day 29  
+✅ Day 30  
 🔄 More coming soon...  
 
 ---
