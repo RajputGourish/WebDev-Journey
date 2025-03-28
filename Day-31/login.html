@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Log in page</h1>
+    </header>
+
+    <main>
+        <form id="form1" action="post">
+            <!-- for id -->
+            <div>
+                <label for="username">Enter your username, mobile number, email</label>
+                <input type="text" id="username" name="username" placeholder="Username, mobile number,  Email"
+                    autofocus>
+            </div>
+            <!-- for password -->
+            <div>
+                <label for="password">Enter your password</label>
+                <input type="password" id="password" name="password" placeholder="Password">
+            </div>
+
+            <!-- add buttons -->
+            <div>
+                <button>Log in</button>
+            </div>
+            <dive>
+
+                <button>Forget password</button>
+            </dive>
+        </form>
+    </main>
+    <footer>
+        <span>Don't have an account</span>
+        <button>sign up</button>
+    </footer>
+
+
+    <header>
+        <h1>Sign up page</h1>
+    </header>
+    <main>
+        <form id="form2" action="post">
+            <span>
+                <label for="firstname">First Name</label>
+                <input type="text" id="firstname" name="firstname" placeholder="First Name"> <br>
+                <label for="lastname">Last Name</label>
+                <input type="text" id="lastname" name="lastname" placeholder="Last Name">
+            </span>
+            <div>
+                <label for="contact">Enter your email, mobile number</label>
+                <input type="text" id="contact" name="contact" placeholder="Email, Mobile number">
+            </div>
+            <div>
+                <label for="signusername">Enter username</label>
+                <input type="text" id="signusername" name="signusername" placeholder="username">
+            </div>
+
+            <span>
+                <label for="pwdset">Enter password</label>
+                <input type="password" id="pwdset" name="pwdset" placeholder="password">
+                <br>
+                <label for="repwdset">Re-enter password</label>
+                <input type="password" id="repwdset" name="repwdset" placeholder="re-enter password">
+            </span>
+
+            <div>
+                <label for="gender">Gender</label>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label>
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">Other</label>
+            </div>
+
+            <div>
+                <button>Sign up</button>
+            </div>
+            <div>
+                <label for="comment">Facing an issue!!</label><br>
+                <textarea id="comment" name="comment" rows="5" cols="40" placeholder="Report an issue here"></textarea>
+            </div>
+            <button type="submit">submit</button>
+        </form>
+    </main>
+</body>
+
+</html>
