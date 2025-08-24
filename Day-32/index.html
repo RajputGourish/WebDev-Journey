@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Layout</title>
+    <style>
+        /* :root {
+            --bodycolor: rgb(249, 122, 122);
+            --navcolor: rgb(247, 101, 211);
+            --outerboxcolor: green;
+            --innerbox1color: pink;
+            --innerbox2color: rgb(5, 184, 255);
+            --introcolor: lightblue;
+            ---footercolor: red;
+        } */
+        :root {
+            --bodycolor: rgb(101, 243, 167);
+            --navcolor: green;
+            --outerboxcolor: rgb(128, 85, 0);
+            --innerbox1color: rgb(219, 244, 109);
+            --innerbox2color: rgb(5, 184, 255);
+            --introcolor: rgb(140, 18, 233);
+            ---footercolor: rgb(255, 9, 116);
+        }
+
+        body {
+            background-color: var(--bodycolor);
+        }
+
+        /* universal */
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        /* navigation bar */
+        header {
+            position: sticky;
+            top: 0px;
+        }
+
+        nav {
+            background-color: var(--navcolor);
+            padding: 13px 20px;
+
+            /* display: flow-root; */
+        }
+
+        nav ul {
+            display: flex;
+            justify-content: end;
+            flex-wrap: wrap;
+            gap: 25px;
+        }
+
+        nav ul li {
+            list-style: none;
+            /* padding: 10px; */
+        }
+
+        /* logo work */
+        .logo {
+            position: fixed;
+            right: 20px;
+            bottom: 20px;
+            /* width: 70px;
+            height: auto; */
+            z-index: 1000;
+        }
+
+        img {
+            border-radius: 50px;
+
+        }
+
+        /* boxes */
+        /* outer box */
+        .outerbox {
+            width: 95vw;
+            height: 90vh;
+            margin: 15px auto;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            background-color: var(--outerboxcolor);
+        }
+
+        /* inner boxes */
+        .box {
+            width: 40vw;
+            height: 70vh;
+            /* margin: auto; */
+        }
+
+        .box1 {
+            background-color: var(--innerbox1color);
+        }
+
+        .box2 {
+            background-color: var(--innerbox2color);
+        }
+
+        /* intro */
+        .intro {
+            margin: 20px auto;
+            width: 1000px;
+            height: 144px;
+            border-radius: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--introcolor);
+        }
+
+        .intro p {
+            font-size: 35px;
+            font-weight: bold;
+        }
+
+        /* footer */
+        .boxfooter {
+            height: 40px;
+            background-color: var(---footercolor);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a>Home</a></li>
+                <li><a>About</a></li>
+                <li><a>Contact us</a></li>
+                <li><a>Services</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="outerbox">
+            <div class="box box1"></div>
+            <div class="box box2"></div>
+        </div>
+        <div class="intro">
+            <p>Welcome to this Sigma Web Development</p>
+        </div>
+        <div class="logo">
+            <img src=" image copy 2.png" alt="your logo" width="50px">
+        </div>
+    </main>
+    <footer>
+        <div class="boxfooter"></div>
+    </footer>
+</body>
+
+</html>
