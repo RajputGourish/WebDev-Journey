@@ -94,6 +94,12 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 img2.jpeg
  ┃ ┣ 📜 login.html
  ┃ ┣ 📜 style.css
+ ┃ 📂 Day-32
+ ┃ ┣ 📜 image copy 2.png 
+ ┃ ┣ 📜 image copy.png
+ ┃ ┣ 📜 image.png
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 index2.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -133,6 +139,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 29  
 ✅ Day 30  
 ✅ Day 31  
+✅ Day 32  
 🔄 More coming soon...  
 
 ---
