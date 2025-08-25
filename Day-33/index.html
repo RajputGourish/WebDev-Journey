@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UltraEdit Navbar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        nav {
+            border: 2px solid black;
+            padding: 20px 60px;
+        }
+
+        ul {
+            display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            column-gap: 30px;
+        }
+
+        nav ul li {
+            cursor: pointer;
+            list-style: none;
+            font-size: 14px;
+        }
+
+        li:not(:first-child):hover {
+            opacity: 0.5;
+            transition: opacity 0.5s ease;
+        }
+
+        .end {
+            margin-left: 150px;
+        }
+
+        #logo {
+            width: 190px;
+        }
+
+        sub {
+            font-size: 11px;
+            font-weight: 600;
+            position: relative;
+            left: -60px;
+            top: -6px;
+        }
+
+        .buy-now {
+            border: 2px solid black;
+            padding: 10px;
+            font-weight: bold;
+            font-size: 12px;
+        }
+
+        a:visited {
+            color: black;
+        }
+
+        a:link {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="https://www.ultraedit.com"><img id="logo" src="image.png" alt="logo" width="144px"><sub>by
+                            Gourish Rajput</sub></a></li>
+                <li>Products</li>
+                <li>Pricing</li>
+                <li>Resources</li>
+                <li>Our company</li>
+                <li class="end buy-now"><a class="two" href="https://www.ultraedit.com/pricing">BUY NOW</a></li>
+                <li><img src="img.png" alt="search"></li>
+                <LI>
+                    <i class="fa fa-search" style="font-size: 20px;"></i>
+                </LI>
+            </ul>
+        </nav>
+    </header>
+</body>
+
+</html>
