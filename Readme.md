@@ -110,6 +110,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 PracStyle.css
  ┃ ┣ 📜 Practicedemo.html
  ┃ ┣ 📜 style.css
+ ┃ 📂 Day-35 
+ ┃ ┣ 📜 down.svg
+ ┃ ┣ 📜 image.png
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -152,6 +156,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 32  
 ✅ Day 33  
 ✅ Day 34  
+✅ Day 35  
 🔄 More coming soon...  
 
 ---
