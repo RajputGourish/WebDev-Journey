@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Animation</title>
+    <style>
+        .container {
+            width: 50vw;
+            height: 70vh;
+            background-color: cadetblue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box {  
+            width: 70px;
+            height: 40px;
+            background-color: aqua;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* animation: gourishKaAnimation; */
+            /* animation-duration: 1.5s; */
+            /* animation-iteration-count: infinite; */
+            /* animation-timing-function: ease-out; */
+            /* animation-timing-function: cubic-bezier(0, 0, 0, .98); */
+            /* animation-delay: 1s; */
+            /* animation-direction: reverse; */
+            /* animation-direction: alternate; */
+            /* animation-play-state: running; */
+
+            /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+            animation: gourishKaAnimation 2s ease-in-out  2, gourish2 3s ease  2;
+
+
+        }
+
+        @keyframes gourishKaAnimation {
+            from {
+                background-color: red;
+            }
+
+            to {
+                background-color: yellow;
+                /* transform: translateX(1000px); */
+            }
+        }
+        
+        @keyframes gourish2 {
+            from{
+                
+            }
+            to{
+            }
+            0% {
+                transform: translateX(100px);
+            }
+            
+            20% {
+                transform: translate(300px)
+            }
+
+            50% {
+                transform: rotate(150deg);
+            }
+
+            70% {
+                transform: skewX(30deg);    
+            }
+            
+            100% {
+                transform: scale(3);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">box</div>
+    </div>
+</body>
+
+</html>
