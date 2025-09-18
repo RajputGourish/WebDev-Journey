@@ -114,6 +114,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 down.svg
  ┃ ┣ 📜 image.png
  ┃ ┣ 📜 index.html
+ ┃ 📂 Day-36 
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -157,6 +159,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 33  
 ✅ Day 34  
 ✅ Day 35  
+✅ Day 36  
 🔄 More coming soon...  
 
 ---
