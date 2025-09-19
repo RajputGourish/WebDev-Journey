@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Transition</title>
+    <style>
+        .container {
+            background-color: aqua;
+            width: 70vw;
+            height: 50vh;
+
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+
+        }
+
+        .box,
+        img {
+            /* background-color: blue; */
+            width: 10vw;
+            height: 15vh;
+
+            /* transition-property: transform; */
+            /* transition-property: all; */
+            /* transition-property: background-color, transform; */
+
+            /* transition-duration: 3s; */
+            /* transition-timing-function: ease; */
+            /* transition-timing-function: ease-in-out; */
+
+            /* transition-delay: 1s; */
+
+            /* transition: all 2s ease 1s; */
+            transition: all 1s ease;
+
+        }
+
+        .box:hover.translate {
+            /* transform: translateX(35vw) translateY(45vh) scaleX(2); */
+            transform: perspective(500px) scaleZ(2) rotateY(45deg);
+            /* transform:; */
+            /* transform: rotate(0.5turn) translateX(220px) translateY(220px); */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box translate">
+            <img src="img1.jpg" alt="1">
+        </div>
+        <div class="box translate"><img src="img2.jpg" alt=""></div>
+        <div class="box translate"><img src="img3.jpg" alt=""></div>
+        <div class="box translate"><img src="img4.jpg" alt=""></div>
+    </div>
+</body>
+
+</html>
