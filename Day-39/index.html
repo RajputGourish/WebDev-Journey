@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bounce Ball</title>
+    <style>
+        .container {
+            position: relative;
+            width: 80vw;
+            height: 80vh;
+            background-color: burlywood;
+        }
+
+        .box1 {
+            width: 50px;
+            height: 50px;
+            border-radius: 50px;
+
+            background-color: red;
+
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            animation: animateX1 1s ease-out infinite alternate, animateY1 7s linear infinite;
+        }
+
+        .box2 {
+            width: 50px;
+            height: 50px;
+            border-radius: 50px;
+
+            background-color: red;
+
+            position: absolute;
+            left: 0;
+            bottom: 0;
+
+            animation: animateX2 7s linear infinite, animateY2 1s ease-out infinite alternate;
+        }
+
+        @keyframes animateX1 {
+            from {
+                left: 0;
+            }
+
+            to {
+                left: 30%;
+            }
+        }
+
+        @keyframes animateY1 {
+            from {
+                top: 0;
+            }
+
+            to {
+                top: 100%;
+            }
+        }
+
+        @keyframes animateX2 {
+            from {
+                left: 0;
+            }
+
+            to {
+                left: 100%;
+            }
+        }
+
+        @keyframes animateY2 {
+            from {
+                bottom: 0;
+            }
+
+            to {
+                bottom: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box1">
+        </div>
+        <div class="box2">
+        </div>
+    </div>
+</body>
+
+</html>
