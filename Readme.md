@@ -133,6 +133,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 image.png
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 uex_23.0.0.21_amd64.deb
+ ┃ 📂 Day-40 
+ ┃ ┣ 📜 image copy.png
+ ┃ ┣ 📜 image.png
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -180,6 +184,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 37  
 ✅ Day 38  
 ✅ Day 39
+✅ Day 41
 🔄 More coming soon...  
 
 ---
