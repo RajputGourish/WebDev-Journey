@@ -137,6 +137,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 image copy.png
  ┃ ┣ 📜 image.png
  ┃ ┣ 📜 index.html
+ ┃ 📂 Day-41 
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -185,6 +187,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 38  
 ✅ Day 39
 ✅ Day 40
+✅ Day 41
 🔄 More coming soon...  
 
 ---
