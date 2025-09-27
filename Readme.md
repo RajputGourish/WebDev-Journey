@@ -143,6 +143,16 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.html
  ┃ 📂 Day-43 
  ┃ ┣ 📜 index.html
+ ┃ 📂 Day-44
+ ┃ ┣ 📂 Assets
+ ┃ ┣ ┣ 📂images
+ ┃ ┣ ┣ 📂videos
+ ┃ ┣ ┣ 📜 tick.svg
+ ┃ ┣ 📜 favicon.ico
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Sign_In.html
+ ┃ ┣ 📜 signin.css
+ ┃ ┣ 📜 style.css
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -194,6 +204,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 41
 ✅ Day 42
 ✅ Day 43
+✅ Day 44
 🔄 More coming soon...  
 
 ---
