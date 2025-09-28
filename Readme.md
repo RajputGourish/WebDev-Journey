@@ -152,7 +152,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Sign_In.html
  ┃ ┣ 📜 signin.css
- ┃ ┣ 📜 style.css
+ ┃ ┣ 📜 style.css 
+ ┃ 📂 Day-45 
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 script.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -205,6 +208,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 42
 ✅ Day 43
 ✅ Day 44
+✅ Day 45
 🔄 More coming soon...  
 
 ---
