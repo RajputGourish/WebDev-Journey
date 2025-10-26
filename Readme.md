@@ -182,6 +182,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.js
  ┃ ┣ 📜 loops.js
  ┃ ┣ 📜 mfr.js
+ ┃ 📂 Day-55
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -244,6 +246,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 52
 ✅ Day 53
 ✅ Day 54
+✅ Day 55
 🔄 More coming soon...  
 
 ---
