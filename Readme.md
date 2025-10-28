@@ -187,6 +187,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-56
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 script.js
+ ┃ 📂 Day-57
+ ┃ ┣ 📜 index.html
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -251,6 +253,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 54
 ✅ Day 55
 ✅ Day 56
+✅ Day 57
 🔄 More coming soon...  
 
 ---
