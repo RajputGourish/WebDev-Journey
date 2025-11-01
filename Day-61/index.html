@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            height: 70vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 23px;
+            border: 2px solid;
+        }
+
+        .box {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 95px;
+            width: 95px;
+            border: 2px solid black;
+
+            font-weight: bold;
+            font-size: 32px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 
+        Given 5 boxes, Assign a random color and a random background to each box using DOM concepts
+     -->
+    <div class="container">
+        <div class="box">Box</div>
+        <div class="box">Box</div>
+        <div class="box">Box</div>
+        <div class="box">Box</div>
+        <div class="box">Box</div>
+    </div>
+
+    <script>
+
+        let boxes = document.querySelector(".container").children;
+
+        function getrandomColor1() {
+            let random = Math.floor(Math.random() * (999999 - 100000)) + 100000;
+            return `#${random}`;
+        }
+
+        function getrandomColor2() {
+            let val1 = Math.ceil(Math.random() * 255 + 0);
+            let val2 = Math.ceil(Math.random() * 255 + 0);
+            let val3 = Math.ceil(Math.random() * 255 + 0);
+            return `rgb(${val1}, ${val2}, ${val3})`;
+        }
+
+        Array.from(boxes).forEach((e) => {
+            e.style.backgroundColor = getrandomColor2();
+            e.style.color = getrandomColor2();
+            // e.style.backgroundColor = getrandomColor1();
+            // e.style.color = getrandomColor1();
+        });
+
+    </script>
+</body>
+
+</html>
