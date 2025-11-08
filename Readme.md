@@ -206,6 +206,12 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-63
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 script.js
+ ┃ 📂 Day-64
+ ┃ ┣ 📜 card.png
+ ┃ ┣ 📜 favicon.ico
+ ┃ ┣ 📜 image.png
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 script.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -277,6 +283,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 61
 ✅ Day 62
 ✅ Day 63
+✅ Day 64
 🔄 More coming soon...  
 
 ---
