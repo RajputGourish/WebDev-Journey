@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <style>
+        body {
+            color: white;
+            background-color: black;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .card {
+            /* background-color: rgb(39, 39, 39); */
+            display: flex;
+            height: 120px;
+            cursor: pointer;
+            min-width: 550px;
+        }
+
+        .card:hover {
+            background-color: rgb(32, 31, 31);
+        }
+
+        .duration {
+            background-color: rgba(0, 0, 0, 0.758);
+            position: absolute;
+            right: 5px;
+            bottom: 10px;
+            border-radius: 5px;
+            color: white;
+            font-size: 0.7em;
+            padding: 2px 4px;
+            font-weight: bold;
+        }
+
+        .img-dur {
+            position: relative;
+            margin: 10px;
+
+        }
+
+        .img-dur>img {
+            width: 170px;
+            border-radius: 5px;
+        }
+
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            margin-top: 10px;
+            gap: 15px;
+        }
+
+        .details {
+            display: flex;
+            font-size: 0.8em;
+            gap: 15px;
+        }
+
+        .title {
+            font-weight: bold;
+        }
+
+        .views,
+        .months {
+            display: list-item;
+            list-style: square;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card" id="Cad">
+
+            <div class="img-dur">
+                <img src="image.png" alt="img">
+                <div class="duration">12:12</div>
+            </div>
+
+            <div class="content">
+                <div class="title">Your First HTML Website | Sigma Web Development Course - Tutorial #2</div>
+                <div class="details">
+                    <div class="Channel">CodeWithHarry</div>
+                    <div class="views">1.9M views</div>
+                    <div class="months">1 year ago</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
