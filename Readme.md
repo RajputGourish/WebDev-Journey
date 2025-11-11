@@ -216,6 +216,11 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 eventbubbling.html
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 script.js
+ ┃ 📂 Day-66
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Promise.js
+ ┃ ┣ 📜 pyramidDum.js
+ ┃ ┣ 📜 script.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -289,6 +294,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 63
 ✅ Day 64
 ✅ Day 65
+✅ Day 66
 🔄 More coming soon...  
 
 ---
