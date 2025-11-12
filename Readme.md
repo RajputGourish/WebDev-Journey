@@ -221,6 +221,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 Promise.js
  ┃ ┣ 📜 pyramidDum.js
  ┃ ┣ 📜 script.js
+ ┃ 📂 Day-66
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 script.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -295,6 +298,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 64
 ✅ Day 65
 ✅ Day 66
+✅ Day 67
 🔄 More coming soon...  
 
 ---
