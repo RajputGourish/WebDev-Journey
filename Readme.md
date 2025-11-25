@@ -245,6 +245,24 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-73
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 script.js
+ ┃ 📂 Day-74
+ ┃ ┣ 📜 01hourses.js
+ ┃ ┣ 📜 02DoubleTrouble.js
+ ┃ ┣ 📜 03ReverseAppend.js
+ ┃ ┣ 📜 04PasswordGen.js
+ ┃ ┣ 📜 05SumAllArray.js
+ ┃ ┣ 📜 06VowelCnt.js
+ ┃ ┣ 📜 07LocalStorage.html
+ ┃ ┣ 📜 08aarrayMap.html
+ ┃ ┣ 📜 08ArrayMappng.js
+ ┃ ┣ 📜 09PlaceOrder.html
+ ┃ ┣ 📜 10CoffeeMachine.html
+ ┃ ┣ 📜 11ArrayFilter.html
+ ┃ ┣ 📜 12TokenManager.html
+ ┃ ┣ 📜 13ShoppingTotal.html
+ ┃ ┣ 📜 14SmoothScroller.html
+ ┃ ┣ 📜 15titleMSG.html
+ ┃ ┣ 📜 Question.txt
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -326,6 +344,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 71
 ✅ Day 72
 ✅ Day 73
+✅ Day 74
 🔄 More coming soon...  
 
 ---
