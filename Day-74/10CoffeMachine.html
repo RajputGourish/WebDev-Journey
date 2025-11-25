@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        async function brewCoffee(type) {
+            return new Promise((resolve) => {
+                let delay = Math.ceil(Math.random() * 10);
+                console.log(delay);
+                setTimeout(() => {
+                    resolve(`Your ${type} is ready`)
+                }, delay * 1000);
+            })
+        }
+
+        async function main() {
+            let a = await brewCoffee("capachino");
+            console.log(a);
+            document.body.innerHTML = a;
+        }
+
+        main();
+
+
+        // brewCoffee("capachino").then((message) => {
+        //     console.log(message);
+        // })
+
+    </script>
+</body>
+
+</html>
+
+<!-- 10.The Coffee Machine: In your coffee shop application, you need to simulate the process of brewing coffee asynchronously. Write an async function named brewCoffee that takes the type of coffee and returns a promise. The promise should resolve with a message indicating that the coffee is ready after a random delay. -->

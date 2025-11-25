@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My website</title>
+    <style>
+        div {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div>title is change</div>
+    <script>
+        function flashTitleNotification() {
+            let orignalTitle = document.title;
+            let isflash = false;
+
+            function changeTitle() {
+                document.title = (isflash) ? "(10) New Message Received" : orignalTitle;
+                isflash = !isflash;
+            }
+            setInterval(changeTitle, 1000);
+        }
+        window.onload = flashTitleNotification;
+    </script>
+</body>
+
+</html>
