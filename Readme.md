@@ -263,6 +263,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 14SmoothScroller.html
  ┃ ┣ 📜 15titleMSG.html
  ┃ ┣ 📜 Question.txt
+ ┃ 📂 Day-75
+ ┃ ┣ 📜 myserver.js
+ ┃ ┣ 📜 server.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -345,6 +348,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 72
 ✅ Day 73
 ✅ Day 74
+✅ Day 75
 🔄 More coming soon...  
 
 ---
