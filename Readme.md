@@ -266,15 +266,18 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-75
  ┃ ┣ 📜 myserver.js
  ┃ ┣ 📜 server.js
- ┃ 📂 Day-75
+ ┃ 📂 Day-76
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 main.js
  ┃ ┣ 📜 Mymodule.js
  ┃ ┣ 📜 Mymodule2.js
- ┃ 📂 Day-76
+ ┃ 📂 Day-77
  ┃ ┣ 📜 Aboutpath.js
  ┃ ┣ 📜 main.js
  ┃ ┣ 📜 mainPromises.js
+ ┃ 📂 Day-78
+ ┃ ┣ 📜 Agenda.md
+ ┃ ┣ 📜 main.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -360,6 +363,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 75
 ✅ Day 76
 ✅ Day 77
+✅ Day 78
 🔄 More coming soon...  
 
 ---
