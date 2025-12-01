@@ -278,6 +278,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-78
  ┃ ┣ 📜 Agenda.md
  ┃ ┣ 📜 main.js
+ ┃ 📂 Day-79
+ ┃ ┣ 📜 Agenda.md
+ ┃ ┣ 📜 main.js
+ ┃ ┣ 📜 Responsive methods.png
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -364,6 +368,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 76
 ✅ Day 77
 ✅ Day 78
+✅ Day 79
 🔄 More coming soon...  
 
 ---
