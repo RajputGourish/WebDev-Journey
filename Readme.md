@@ -285,6 +285,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-80
  ┃ ┣ 📜 log.txt
  ┃ ┣ 📜 main.js
+ ┃ 📂 Day-81
+ ┃ ┣ 📜 index.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -373,6 +375,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 78
 ✅ Day 79
 ✅ Day 80
+✅ Day 81
 🔄 More coming soon...  
 
 ---
