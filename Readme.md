@@ -287,6 +287,11 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 main.js
  ┃ 📂 Day-81
  ┃ ┣ 📜 index.js
+ ┃ 📂 Day-82
+ ┃ ┣ 📂 views
+ ┃ ┣ ┣  index.ejs
+ ┃ ┣ ┣  navbar.ejs
+ ┃ ┣ 📜 index.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -376,6 +381,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 79
 ✅ Day 80
 ✅ Day 81
+✅ Day 82
 🔄 More coming soon...  
 
 ---
