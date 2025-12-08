@@ -302,6 +302,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-84
  ┃ ┣ 📜 playground-1.mongodb.js
  ┃ ┣ 📜 playground-2.mongodb.js
+ ┃ 📂 Day-85
+ ┃ ┣ 📜 CRUD.mongodb.js
+ ┃ ┣ 📜 index.js
+ ┃ ┣ 📜 pratice.mongodb.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -394,6 +398,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 82
 ✅ Day 83
 ✅ Day 84
+✅ Day 85
 🔄 More coming soon...  
 
 ---
