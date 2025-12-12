@@ -309,6 +309,8 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-86
  ┃ ┣ 📜 main.js
  ┃ ┣ 📜 Mongodb_Module.js
+ ┃ 📂 Day-87
+ ┃ ┣ 📜 main.js
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -403,6 +405,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 84
 ✅ Day 85
 ✅ Day 86
+✅ Day 87
 🔄 More coming soon...  
 
 ---
