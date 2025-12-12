@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dummy Data</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+
+</head>
+
+<body>
+    <div class="but">
+        <button class="btn1 btn btn-primary">Generate Dummy data</button>
+        <button class="btn2 btn btn-secondary">Clear all data</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.querySelector(".btn1").addEventListener("click", async () => {
+            let a = await fetch("/generate");
+        })
+
+        document.querySelector(".btn2").addEventListener("click", async () => {
+            let a = await fetch("/clear");
+        })
+    </script>
+</body>
+
+</html>
