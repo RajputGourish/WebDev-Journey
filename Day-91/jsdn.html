@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Textarea Height</title>
+    <style>
+        .auto-resize-textarea {
+            width: 100%; /* Adjust as needed */
+            min-height: 50px; /* Minimum height for the textarea */
+            padding: 10px;
+            border: 1px solid #ccc;
+            resize: vertical; /* Allows manual vertical resizing by the user */
+            overflow-y: hidden; /* Hides scrollbar initially */
+            box-sizing: border-box; /* Include padding and border in the element's total width and height */
+        }
+    </style>
+</head>
+<body>
+    <label for="myTextarea">Enter your message:</label>
+    <textarea id="myTextarea" class="auto-resize-textarea" placeholder="Start typing here..."></textarea>
+</body>
+</html>
