@@ -325,6 +325,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 card.png
  ┃ ┣ 📜 image.png
  ┃ ┣ 📜 index.html
+ ┃ 📂 Day-93
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -425,6 +428,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 90
 ✅ Day 91
 ✅ Day 92
+✅ Day 93
 🔄 More coming soon...  
 
 ---
