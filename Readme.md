@@ -328,6 +328,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-93
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-94
+ ┃ ┣ 📜 index.js
+ ┃ ┣ 📜 Readme.md
  ┗ 📜 README.md (Minimal repo overview)  
 ```
 
@@ -429,6 +432,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 91
 ✅ Day 92
 ✅ Day 93
+✅ Day 94
 🔄 More coming soon...  
 
 ---
