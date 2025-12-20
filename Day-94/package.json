@@ -1,0 +1,15 @@
+{
+  "name": "tut104-hostingexpressinubuntu",
+  "version": "1.0.0",
+  "description": "### Step 1 - Installing Node.js & build essentials ``` curl -fsSL https://deb.nodesource.com/setup_21.x | sudo -E bash - &&\\ sudo apt-get install -y nodejs ``` Now install build essentials ``` sudo apt-get install build-essential ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
