@@ -331,13 +331,16 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-94
  ┃ ┣ 📜 index.js
  ┃ ┣ 📜 Readme.md
- ┃ 📂 Day-96
+ ┃ 📂 Day-95
 ┃  ┣📂 withreact
  ┃ ┣ 📜 ind.html
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
  ┃ ┣ 📜 WithoutReact.html
- ┗ 📜 README.md (Minimal repo overview)  
+ ┃ 📂 Day-96
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
+ ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
 ## How to Use This Repository?  
@@ -440,6 +443,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 93
 ✅ Day 94
 ✅ Day 95
+✅ Day 96
 🔄 More coming soon...  
 
 ---
