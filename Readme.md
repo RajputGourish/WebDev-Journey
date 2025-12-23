@@ -340,6 +340,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-96
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-97
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -444,6 +447,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 94
 ✅ Day 95
 ✅ Day 96
+✅ Day 97
 🔄 More coming soon...  
 
 ---
