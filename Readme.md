@@ -352,7 +352,11 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-100
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
- ┃ 📂 Day-100
+ ┃ 📂 Day-101
+ ┃ ┣ 📜 reactapp`
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-102
  ┃ ┣ 📜 reactapp`
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
@@ -465,6 +469,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 99
 ✅ Day 100
 ✅ Day 101
+✅ Day 102
 🔄 More coming soon...  
 
 ---
