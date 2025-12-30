@@ -364,6 +364,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 reactapp
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-104 (Todo app)
+ ┃ ┣ 📜 reactapp
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -475,6 +479,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 101
 ✅ Day 102
 ✅ Day 103
+✅ Day 104
 🔄 More coming soon...  
 
 ---
