@@ -376,6 +376,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 reactapp
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-107 (UseMemo)
+ ┃ ┣ 📜 reactapp
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -490,6 +494,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 104
 ✅ Day 105
 ✅ Day 106
+✅ Day 107
 🔄 More coming soon...  
 
 ---
