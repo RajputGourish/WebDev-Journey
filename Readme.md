@@ -388,6 +388,10 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 reactapp
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-110 (Redux react)
+ ┃ ┣ 📜 reactapp
+ ┃ ┣ 📜 index.html
+ ┃ ┣ 📜 Readme.md
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -505,6 +509,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 107
 ✅ Day 108
 ✅ Day 109
+✅ Day 110
 🔄 More coming soon...  
 
 ---
