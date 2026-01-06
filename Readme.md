@@ -332,7 +332,7 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 index.js
  ┃ ┣ 📜 Readme.md
  ┃ 📂 Day-95
-┃  ┣📂 withreact
+ ┃  ┣📂 withreact
  ┃ ┣ 📜 ind.html
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
@@ -392,6 +392,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ ┣ 📜 reactapp
  ┃ ┣ 📜 index.html
  ┃ ┣ 📜 Readme.md
+ ┃ 📂 Day-111 (Next js)
+ ┃  ┣📂 first
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -510,6 +513,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 108
 ✅ Day 109
 ✅ Day 110
+✅ Day 111
 🔄 More coming soon...  
 
 ---
