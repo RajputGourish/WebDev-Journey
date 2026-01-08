@@ -398,6 +398,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-112 (Next js -> Component)
  ┃  ┣📂 myapp
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-113 (Next js -> Link Image)
+ ┃  ┣📂 website
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -518,6 +521,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 110
 ✅ Day 111
 ✅ Day 112
+✅ Day 113
 🔄 More coming soon...  
 
 ---
