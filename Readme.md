@@ -404,6 +404,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-114 (Next js -> Creating api)
  ┃  ┣📂 api-routes
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-115 (Next js -> Server Action)
+ ┃  ┣📂 server-action
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -526,6 +529,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 112
 ✅ Day 113
 ✅ Day 114
+✅ Day 115
 🔄 More coming soon...  
 
 ---
