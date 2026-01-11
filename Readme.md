@@ -407,6 +407,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-115 (Next js -> Server Action)
  ┃  ┣📂 server-action
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-116 (Next js -> middle-wear(proxy))
+ ┃  ┣📂 server-action
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -530,6 +533,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 113
 ✅ Day 114
 ✅ Day 115
+✅ Day 116
 🔄 More coming soon...  
 
 ---
