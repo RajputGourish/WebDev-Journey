@@ -410,6 +410,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-116 (Next js -> middle-wear(proxy))
  ┃  ┣📂 server-action
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-117 (Next js -> NextAuth)
+ ┃  ┣📂 auth-app
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -534,6 +537,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 114
 ✅ Day 115
 ✅ Day 116
+✅ Day 117
 🔄 More coming soon...  
 
 ---
