@@ -413,7 +413,7 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-117 (Next js -> NextAuth)
  ┃  ┣📂 auth-app
  ┃  ┣ 📜 nextapp
- ┃ 📂 Day-118 (Next js -> dynamic router)
+ ┃ 📂 Day-118 (Next js -> dynamic-routes)
  ┃  ┣📂 dynamic-router
  ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
