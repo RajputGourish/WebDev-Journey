@@ -416,6 +416,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-118 (Next js -> dynamic-routes)
  ┃  ┣📂 dynamic-router
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-119 (Next js -> layouts)
+ ┃  ┣📂 dynamic-router
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -542,6 +545,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 116
 ✅ Day 117
 ✅ Day 118
+✅ Day 119
 🔄 More coming soon...  
 
 ---
