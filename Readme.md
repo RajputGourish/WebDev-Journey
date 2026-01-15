@@ -419,6 +419,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-119 (Next js -> layouts)
  ┃  ┣📂 dynamic-router
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-120 (React js -> project passop)
+ ┃  ┣📂 passop -> (localstorage)
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -546,6 +549,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 117
 ✅ Day 118
 ✅ Day 119
+✅ Day 120
 🔄 More coming soon...  
 
 ---
