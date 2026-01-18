@@ -424,6 +424,9 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 passop-mongo -> (mongodb)
  ┃  ┣ 📜 reactapp
+ ┃ 📂 Day-120 (Next js -> Mega project Get Me A Chai)
+ ┃  ┣📂 get-me-a-chai
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -552,6 +555,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 118
 ✅ Day 119
 ✅ Day 120
+✅ Day 121
 🔄 More coming soon...  
 
 ---
