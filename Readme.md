@@ -427,6 +427,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-120 (Next js -> Mega project Get Me A Chai)
  ┃  ┣📂 get-me-a-chai
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-120 (Next js -> next-navigation hook)
+ ┃  ┣📂 next-navigation
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -556,6 +559,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 119
 ✅ Day 120
 ✅ Day 121
+✅ Day 122
 🔄 More coming soon...  
 
 ---
