@@ -424,11 +424,14 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 passop-mongo -> (mongodb)
  ┃  ┣ 📜 reactapp
- ┃ 📂 Day-120 (Next js -> Mega project Get Me A Chai)
+ ┃ 📂 Day-121 (Next js -> Mega project Get Me A Chai)
  ┃  ┣📂 get-me-a-chai
  ┃  ┣ 📜 nextapp
- ┃ 📂 Day-120 (Next js -> next-navigation hook)
+ ┃ 📂 Day-122 (Next js -> next-navigation hook)
  ┃  ┣📂 next-navigation
+ ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-123 (Next js -> SSR | SSG | ISR)
+ ┃  ┣📂 ssr-ssg-isr
  ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
@@ -560,6 +563,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 120
 ✅ Day 121
 ✅ Day 122
+✅ Day 123
 🔄 More coming soon...  
 
 ---
