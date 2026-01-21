@@ -433,6 +433,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-123 (Next js -> SSR | SSG | ISR)
  ┃  ┣📂 ssr-ssg-isr
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-124 (Next js -> env-variables)
+ ┃  ┣📂 env-variables
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -564,6 +567,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 121
 ✅ Day 122
 ✅ Day 123
+✅ Day 124
 🔄 More coming soon...  
 
 ---
