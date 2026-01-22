@@ -436,6 +436,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-124 (Next js -> env-variables)
  ┃  ┣📂 env-variables
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-125 
+ ┃  ┣📂 style-jsx-other
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -568,6 +571,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 122
 ✅ Day 123
 ✅ Day 124
+✅ Day 125
 🔄 More coming soon...  
 
 ---
