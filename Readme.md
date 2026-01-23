@@ -439,6 +439,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-125 
  ┃  ┣📂 style-jsx-other
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-126 (Project -> URL Shortener)
+ ┃  ┣📂 bitlink
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -572,6 +575,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 123
 ✅ Day 124
 ✅ Day 125
+✅ Day 126
 🔄 More coming soon...  
 
 ---
