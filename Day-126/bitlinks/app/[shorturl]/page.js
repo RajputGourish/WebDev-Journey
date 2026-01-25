@@ -9,9 +9,11 @@ export default async function Page({ params }) {
 
     const doc = await collection.findOne({ shorturl: shorturl });
     if (doc) {
+        
         redirect(doc.url)
     }
     else {
+
         redirect(`${process.env.NEXT_PUBLIC_HOST}`)
     }
     return <div>My Post: {url}</div>
