@@ -442,6 +442,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-126 (Project -> URL Shortener)
  ┃  ┣📂 bitlink
  ┃  ┣ 📜 nextapp
+ ┃ 📂 Day-126 (Project -> Linktree Clone)
+ ┃  ┣📂 linktree-clone
+ ┃  ┣ 📜 nextapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
@@ -576,6 +579,7 @@ This repository documents my daily progress in learning and building projects re
 ✅ Day 124
 ✅ Day 125
 ✅ Day 126
+✅ Day 127
 🔄 More coming soon...  
 
 ---
