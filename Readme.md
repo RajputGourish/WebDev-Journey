@@ -445,6 +445,9 @@ This repository documents my daily progress in learning and building projects re
  ┃ 📂 Day-126 (Project -> Linktree Clone) -> (BitTree)
  ┃  ┣📂 linktree-clone 
  ┃  ┣ 📜 nextapp
+ ┃ 📂 practice_project
+ ┃  ┣📂 create-react-form
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
