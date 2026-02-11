@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #1a1a1a;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  gap: 20px;
+}
+
+.password {
+  width: 300px;
+  padding: 10px 12px;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.error{
+  color: rgb(255, 36, 36);
+}
+.true{
+  color: rgb(58, 255, 58);
+}
+
+
+.white{
+  background-color: #fff;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.yellow{
+  color: yellow;
+  text-align:center;
+}
+
+.green{
+  background: green;
+}
+
+.ul{
+  margin: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
