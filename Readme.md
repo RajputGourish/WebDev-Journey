@@ -450,6 +450,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 joke-generater
  ┃  ┣ 📜 reactapp
+ ┃  ┣📂 is-strong-pw
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
