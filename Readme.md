@@ -452,6 +452,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 is-strong-pw
  ┃  ┣ 📜 reactapp
+ ┃  ┣📂 simon-says-game
+ ┃  ┣ 📜 vanila-js
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
