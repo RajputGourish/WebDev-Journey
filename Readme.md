@@ -454,6 +454,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 simon-says-game
  ┃  ┣ 📜 vanila-js
+ ┃  ┣📂 card-project-react
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
