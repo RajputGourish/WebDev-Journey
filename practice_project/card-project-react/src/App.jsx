@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from './Components/Card'
+import Navbar from './Components/Navbar';
 
 const App = () => {
   const jobs = [
@@ -107,13 +108,16 @@ const App = () => {
 
 
   return (
-    <div className="parent flex-wrap p-7.5 min-h-screen justify-center flex gap-7.5">
-      {jobs.map((e, idx) => {
-        return <div>
-          <Card companyName={e.company} logo={e.brandLogo} datepost={e.datePosted} postname={e.post} tag1={e.tag1} tag2={e.tag2} pay={e.pay} location={e.location} />
-        </div>
+    <>
+      <Navbar />
+      <div className="parent flex-wrap p-7.5 min-h-screen justify-center flex gap-7.5 mt-20">
+        {jobs.map((e, idx) => {
+          return <div>
+            <Card companyName={e.company} logo={e.brandLogo} datepost={e.datePosted} postname={e.post} tag1={e.tag1} tag2={e.tag2} pay={e.pay} location={e.location} />
+          </div>
         })}
-    </div>
+      </div>
+    </>
   )
 }
 
