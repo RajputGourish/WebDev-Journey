@@ -456,6 +456,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 vanila-js
  ┃  ┣📂 card-project-react
  ┃  ┣ 📜 reactapp
+ ┃  ┣📂 ui-project-react
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
