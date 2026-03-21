@@ -460,6 +460,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 form-handling-react
  ┃  ┣ 📜 reactapp
+ ┃  ┣📂 notes-app-react
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
