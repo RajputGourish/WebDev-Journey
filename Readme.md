@@ -462,6 +462,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 notes-app-react
  ┃  ┣ 📜 reactapp
+ ┃  ┣📂 gallery-project-react
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
