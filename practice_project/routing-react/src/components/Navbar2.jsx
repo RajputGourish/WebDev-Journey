@@ -1,8 +1,12 @@
 import React from 'react'
+import { useContext } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { ThemedataContext } from '../context/ThemeContext'
 
 const Navbar2 = () => {
     const navigate = useNavigate()
+
+
 
     return (
         <div>

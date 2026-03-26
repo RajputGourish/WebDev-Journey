@@ -14,9 +14,14 @@ import CourseDetail from "./pages/CourseDetail"
 import Navbar2 from "./components/Navbar2"
 
 const App = () => {
+  const children = "i am main children";
   return (
     <div>
-      <Navbar />
+      <Navbar >
+        <h2>This is one</h2>
+        <h2>I am ok</h2>
+        <h2>Take care you</h2>
+      </Navbar>
       <Navbar2 /> 
       <Footer />
       <Routes>
