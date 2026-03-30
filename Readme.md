@@ -468,6 +468,8 @@ This repository documents my daily progress in learning and building projects re
  ┃  ┣ 📜 reactapp
  ┃  ┣📂 expense-tracking-react       
  ┃  ┣ 📜 reactapp
+ ┃  ┣📂 employee-management-system       
+ ┃  ┣ 📜 reactapp
  ┗ 📜 README.md (M`inimal repo overview)  
 ```
 
